@@ -1,0 +1,46 @@
+-- Inserted Data for tbl_newrepair table :
+INSERT INTO tbl_newrepair (ClientName, ClientAddress, ContactNo, TechnicalNote)
+VALUES('G.M Kurupu','Colombo 07','0741564897','Hardware Issue');
+INSERT INTO tbl_newrepair (ClientName, ClientAddress, ContactNo, TechnicalNote)
+VALUES('G.M Kurupu','Malaba','0745879632','Hardware Issue');
+INSERT INTO tbl_newrepair (ClientName, ClientAddress, ContactNo, TechnicalNote)
+VALUES('G.M Kurupu','Kottawa','0741556486','Software Issue');
+INSERT INTO tbl_newrepair (ClientName, ClientAddress, ContactNo, TechnicalNote)
+VALUES('G.M Kurupu','Kaduwela','0721525467','Hardware Issue');
+INSERT INTO tbl_newrepair (ClientName, ClientAddress, ContactNo, TechnicalNote)
+VALUES('G.M Kurupu','Colombo','070764897','Software Issue');
+INSERT INTO tbl_newrepair (ClientName, ClientAddress, ContactNo, TechnicalNote)
+VALUES('G.M Kurupu','Kottawa','0701448972','Hardware Issue');
+
+-- Inserted Data for tbl_newrepair table :
+INSERT INTO tbl_newrepair (ClientName, ClientAddress, ContactNo, TechnicalNote)
+VALUES('G.M Kurupu','Colombo 07','0741564897','Hardware Issue');
+INSERT INTO tbl_newrepair (ClientName, ClientAddress, ContactNo, TechnicalNote)
+VALUES('Saman Kumara','Malaba','0745879632','Hardware Issue');
+INSERT INTO tbl_newrepair (ClientName, ClientAddress, ContactNo, TechnicalNote)
+VALUES('Kalana Maduwantha','Kottawa','0741556486','Software Issue');
+INSERT INTO tbl_newrepair (ClientName, ClientAddress, ContactNo, TechnicalNote)
+VALUES('Gihna Kanishka','Kaduwela','0721525467','Hardware Issue');
+INSERT INTO tbl_newrepair (ClientName, ClientAddress, ContactNo, TechnicalNote)
+VALUES('Nipuna Udash','Colombo','070764897','Software Issue');
+INSERT INTO tbl_newrepair (ClientName, ClientAddress, ContactNo, TechnicalNote)
+VALUES('Asanka Geenath','Kottawa','0701448972','Hardware Issue');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
